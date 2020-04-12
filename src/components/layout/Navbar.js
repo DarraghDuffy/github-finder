@@ -23,7 +23,7 @@ Navbar.propTypes = {
 
 Navbar.defaultProps = {
   classStyle: 'fa fa-github',
-  title: "Github User & Users' Repo Finder",
+  title: 'Github Finder',
 };
 
 export default Navbar;
